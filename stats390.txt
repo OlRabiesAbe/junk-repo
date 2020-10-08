@@ -24,7 +24,7 @@
 		-If it doesn't have a smallest amount, it's probably Continuous
 	-Qualitative Data is categorical in nature
 
--Levels of Measurement tell us how much data is in a Variable and what we can do with that data
+-Levels of Measurement tell us how much Data is in a Variable and what we can do with that Data
 -The Levels of Measurement can be defined as such:
 	-Nominal: Qualitative, unordered by nature
 	-Ordinal: Qualitative, can be ordered, but the differences between values mean nothing
