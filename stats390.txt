@@ -30,9 +30,7 @@
 	-Ordinal: Qualitative, can be ordered, but the differences between values mean nothing
 		-Differences between values aren't physical, i.e. not measurable
 		-Examples include rating stars & level of higher education
-	-Interval: can be ordered, the differences between values are meaningful, 
-			but there is no smallest value, i.e. no natural zero
+	-Interval: can be ordered, the differences between values are meaningful, but there is no smallest value, i.e. no natural zero
 		-An example is temperatue
-	-Ratio: can be ordered, the differences between values are meaningful, 
-			& there is a natural zero where none of that quantity exists
+	-Ratio: can be ordered, the differences between values are meaningful, & there is a natural zero where none of that quantity exists
 		-An example is height
