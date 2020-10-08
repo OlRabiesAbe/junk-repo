@@ -1,0 +1,38 @@
+10/2/20, Lecture 1
+-Statistics: discipline teaching us how to make informed decisions in cases with uncertainty
+-Data: any info that is recorded
+-Population: collection of all Data being recorded, every indivivual of interest in the study
+	-note: the Population of a Sample is every object that could have been in the Sample
+-Census: collection of Data from every member of a Population 
+	(true Censuses are very rare, most are just Samples)
+-Sample: a subset of a Population, for a good Sample randomness is key
+	-Random sample: unbiased
+	-Convenience smaple: biased
+-Paramter: describes a characteristic of a Population, usually written as a Greek letter
+-Statistic: describes a characteristic of a Sample, usually written as an X with a bar over(under? can't remember) it
+-Descriptive: use Sample Data to describe the Population's characteristics, and is purely numerical
+-Inferential: draws conclusions about a Population, often qualifying
+
+10/7/20, Lecture 2
+-A Variable is a charecteristic whose value can change from one object to the next
+-A Random Variable is determined by chance for each object
+-Two kinds of data: Quantitative & Qualitative
+	-Quantitative Data consists of numbers
+	-Quantitative Data can be subdivided into Discrete or Continuous
+		-Discrete Data is countable, Continuous is infinite in its scope
+		-Discrete Data increases in finite amounts, meaning it has a smallest amount it can increment by
+		-If it doesn't have a smallest amount, it's probably Continuous
+	-Qualitative Data is categorical in nature
+
+-Levels of Measurement tell us how much data is in a Variable and what we can do with that data
+-The Levels of Measurement can be defined as such:
+	-Nominal: Qualitative, unordered by nature
+	-Ordinal: Qualitative, can be ordered, but the differences between values mean nothing
+		-Differences between values aren't physical, i.e. not measurable
+		-Examples include rating stars & level of higher education
+	-Interval: can be ordered, the differences between values are meaningful, 
+			but there is no smallest value, i.e. no natural zero
+		-An example is temperatue
+	-Ratio: can be ordered, the differences between values are meaningful, 
+			& there is a natural zero where none of that quantity exists
+		-An example is height
