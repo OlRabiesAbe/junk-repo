@@ -18,10 +18,10 @@
 -A Random Variable is determined by chance for each object
 -Two kinds of data: Quantitative & Qualitative
 	-Quantitative Data consists of numbers
-	-Quantitative Data can be subdivided into Discrete or Continuous
-		-Discrete Data is countable, Continuous is infinite in its scope
-		-Discrete Data increases in finite amounts, meaning it has a smallest amount it can increment by
-		-If it doesn't have a smallest amount, it's probably Continuous
+		-Quantitative Data can be subdivided into Discrete or Continuous
+			-Discrete Data is countable, Continuous is infinite in its scope
+			-Discrete Data increases in finite amounts, meaning it has a smallest amount it can increment by
+			-If it doesn't have a smallest amount, it's probably Continuous
 	-Qualitative Data is categorical in nature
 
 -Levels of Measurement tell us how much Data is in a Variable and what we can do with that Data
