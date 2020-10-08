@@ -7,7 +7,7 @@
 	(true Censuses are very rare, most are just Samples)
 -Sample: a subset of a Population, for a good Sample randomness is key
 	-Random sample: unbiased
-	-Convenience smaple: biased
+	-Convenience sample: biased
 -Paramter: describes a characteristic of a Population, usually written as a Greek letter
 -Statistic: describes a characteristic of a Sample, usually written as an X with a bar over(under? can't remember) it
 -Descriptive: use Sample Data to describe the Population's characteristics, and is purely numerical
